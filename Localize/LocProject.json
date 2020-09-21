@@ -6,7 +6,7 @@
           "SourceFile": "src\\sample\\resource1.json",
           "Languages": "zh-CN;zh-HK;",
           "CopyOption": "LangIDOnName",
-          "OutputPath": "src"
+          "OutputPath": "src\\sample"
         }
         ]
      }
