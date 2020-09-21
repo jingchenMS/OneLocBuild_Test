@@ -1,0 +1,13 @@
+{
+  "Projects": [
+    {
+      "LocItems": [
+        {
+          "SourceFile": "src\\Sample\\Resource1.resx",
+          "Languages": "zh-CN;zh-HK;"
+          "CopyOption": "LangIDOnName"
+          "OutputPath": "src"
+        }
+        ]
+     }
+}
