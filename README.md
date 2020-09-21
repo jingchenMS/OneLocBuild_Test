@@ -1,2 +1,2 @@
 # OneLocBuild_Test
-A dummy project for testing purpose
+A dummy project for testing purpose. Reference at your own risk!
