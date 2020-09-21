@@ -3,7 +3,7 @@
     {
       "LocItems": [
         {
-          "SourceFile": "src\\sample\\Resource1.json",
+          "SourceFile": "src\\sample\\resource1.json",
           "Languages": "zh-CN;zh-HK;",
           "CopyOption": "LangIDOnName",
           "OutputPath": "src"
